@@ -8,7 +8,7 @@ Disponible para aprender y colaborar en cualquier tipo de proyectos .</p>
 
 ---
 
-## Tecnologías que estoy aprendiendo
+<h2 aling="center">Tecnologías que estoy aprendiendo</h2>
 
 <p align="center">
 
@@ -28,7 +28,7 @@ Disponible para aprender y colaborar en cualquier tipo de proyectos .</p>
 
 ---
 
-## Proyectos realizados
+<h2 aling="center"> Proyectos realizados</h2>
 
 | Proyecto | Descripción | Tecnologías |
 |-----------|------------|-------------|
@@ -38,7 +38,7 @@ Disponible para aprender y colaborar en cualquier tipo de proyectos .</p>
 
 ---
 
-## Actualmente aprendiendo
+<h2 aling="center"> Actualmente aprendiendo</h2>
 
 - Estructura y diseño web con HTML y CSS.
 - Bases de datos relacionales con MySQL.
@@ -47,7 +47,7 @@ Disponible para aprender y colaborar en cualquier tipo de proyectos .</p>
 
 ---
 
-## Objetivos
+<h2 aling="center"> Objetivos</h2>
 
 - Mejorar mis habilidades de programación.
 - Participar en proyectos colaborativos.
@@ -55,7 +55,7 @@ Disponible para aprender y colaborar en cualquier tipo de proyectos .</p>
 
 ---
 
-## Contacto
+<h2 aling="center"> Contacto </h2>
 
 GitHub: https://github.com/danielandradediaz511
 
