@@ -32,7 +32,7 @@ Disponible para aprender y colaborar en cualquier tipo de proyectos .
 
 | Proyecto | Descripción | Tecnologías |
 |-----------|------------|-------------|
-| Copa-del-Mundo | Pagina web para ver información acerca del mundial 2026. | HTML · CSS  |
+| https://github.com/danielandradediaz511/Copa-del-Mundo.git | Pagina web para ver información acerca del mundial 2026. | HTML · CSS  |
 | Base de Datos Gestión de Aseo | Diseño y modelado de la base de datos para el proyecto de aseo. | MySQL |
 
 
