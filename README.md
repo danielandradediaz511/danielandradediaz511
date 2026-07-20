@@ -30,10 +30,28 @@ Disponible para aprender y colaborar en cualquier tipo de proyectos .</p>
 
 <h2 aling="center"> Proyectos realizados</h2>
 
-| Proyecto | Descripción | Tecnologías |
-|-----------|------------|-------------|
-| <a href="https://github.com/danielandradediaz511/Copa-del-Mundo">Copa del Mundo 2026</a> | Pagina web para ver información acerca del mundial 2026. | HTML · CSS  |
-| Base de Datos Gestión de Aseo | Diseño y modelado de la base de datos para el proyecto de aseo. | MySQL |
+<table align="center">
+  <tr>
+    <th>Proyecto</th>
+    <th>Descripción</th>
+    <th>Tecnologías</th>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/danielandradediaz511/Copa-del-Mundo">Copa del Mundo 2026</a>
+    </td>
+    <td>Página web para ver información acerca del mundial 2026.</td>
+    <td>HTML · CSS</td>
+  </tr>
+
+  <tr>
+    <td>Base de Datos Gestión de Aseo</td>
+    <td>Diseño y modelado de la base de datos para el proyecto de aseo.</td>
+    <td>MySQL</td>
+  </tr>
+
+</table>
 
 
 ---
