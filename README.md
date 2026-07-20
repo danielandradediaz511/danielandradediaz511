@@ -1,16 +1,16 @@
-# ¡Hola! Soy Daniel Andrade Díaz
+<h1 aling="center"> ¡Hola! Soy Daniel Andrade Díaz</h1>
 
-Estudiante de Análisis y Desarrollo de Software (ADSO) en el SENA, actualmente enfocado en el desarrollo web y bases de datos.
+<p aling="center">Estudiante de Análisis y Desarrollo de Software (ADSO) en el SENA, actualmente enfocado en el desarrollo web y bases de datos.<br>
 
-Me interesa aprender nuevas tecnologías, desarrollar aplicaciones funcionales y fortalecer continuamente mis habilidades como desarrollador.
+Me interesa aprender nuevas tecnologías, desarrollar aplicaciones funcionales y fortalecer continuamente mis habilidades como desarrollador.<br>
 
-Disponible para aprender y colaborar en cualquier tipo de proyectos .
+Disponible para aprender y colaborar en cualquier tipo de proyectos .</p>
 
 ---
 
 ## Tecnologías que estoy aprendiendo
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
@@ -32,7 +32,7 @@ Disponible para aprender y colaborar en cualquier tipo de proyectos .
 
 | Proyecto | Descripción | Tecnologías |
 |-----------|------------|-------------|
-| <a href="https://github.com/danielandradediaz511/Copa-del-Mundo.git">Copa del Mundo 2026</a> | Pagina web para ver información acerca del mundial 2026. | HTML · CSS  |
+| <a href="https://github.com/danielandradediaz511/Copa-del-Mundo">Copa del Mundo 2026</a> | Pagina web para ver información acerca del mundial 2026. | HTML · CSS  |
 | Base de Datos Gestión de Aseo | Diseño y modelado de la base de datos para el proyecto de aseo. | MySQL |
 
 
