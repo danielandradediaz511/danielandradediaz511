@@ -49,7 +49,6 @@ Disponible para aprender y colaborar en cualquier tipo de proyectos .
 
 ## Objetivos
 
-- Construir un portafolio profesional.
 - Mejorar mis habilidades de programación.
 - Participar en proyectos colaborativos.
 - Obtener experiencia en desarrollo de software.
