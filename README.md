@@ -46,9 +46,9 @@ Disponible para aprender y colaborar en cualquier tipo de proyectos .</p>
   </tr>
 
   <tr>
-    <td>Base de Datos Gestión de Aseo</td>
-    <td>Diseño y modelado de la base de datos para el proyecto de aseo.</td>
-    <td>MySQL</td>
+    <td><a href=https://github.com/danielandradediaz511/Sena-aseo>Sena-aseo</a></td>
+    <td>Aplicación para llevar el control del aseo en el SENA.</td>
+    <td>HTML · CSS · JavaScript </td>
   </tr>
 
 </table>
